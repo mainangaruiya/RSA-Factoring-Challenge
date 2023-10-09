@@ -136,5 +136,3 @@ Repo:
 
     GitHub repository: RSA-Factoring-Challenge
     File: rsa
-
-Copyright © 2023 ALX, All rights reserved.
